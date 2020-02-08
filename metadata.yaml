@@ -1,0 +1,30 @@
+_repo: A-Passage-to-India_61221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: ''
+gutenberg_issued: '2020-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61221'
+  lccn: '24017130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'British -- India -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Political fiction'
+- !lcsh 'India -- Social conditions -- 20th century -- Fiction'
+- GITenberg
+title: A Passage to India
+url: http://www.gutenberg.org/ebooks/61221
